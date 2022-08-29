@@ -1,7 +1,7 @@
 # Ai Coin Collection
 
 ## Summary
-This coin colelction was generated with stable diffusion AI
+This coin collection was generated with stable diffusion AI
 
 ![](https://hackmd.io/_uploads/Byyr5AYyo.png)
 
