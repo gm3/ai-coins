@@ -1,9 +1,10 @@
 # Ai Coin Collection
 
 ## Summary
-This coin collection was generated with stable diffusion AI https://stability.ai/blog/stable-diffusion-public-release
+This coin colelction was generated with stable diffusion AI
 
-![](https://hackmd.io/_uploads/Byyr5AYyo.png)
+![](https://hackmd.io/_uploads/ryi82CKyj.png)
+
 
 ![](https://hackmd.io/_uploads/HJUSY0FJs.png)
 
